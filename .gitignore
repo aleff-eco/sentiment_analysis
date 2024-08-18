@@ -1,0 +1,17 @@
+# Directorios
+Sources/
+lematizacion/
+lexicon.txt
+
+# Temp archivos
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+
+# Conf IDE
+.vscode/
+.idea/
+*.sublime-workspace
+
